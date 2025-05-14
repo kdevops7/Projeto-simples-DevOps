@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Google",
+    "health_url": "https://www.google.com/health",
+    "host": "www.google.com",
+    "port": 443
+  },
+  {
+    "name": "GitHub",
+    "health_url": "https://www.github.com/status",
+    "host": "www.github.com",
+    "port": 443
+  }
+]
